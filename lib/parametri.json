@@ -1,0 +1,1 @@
+{"tabella": "quality.property", "partizionamento": "type", "null_percent": 0.95, "null_percent_low": 0.0001, "coeff_variabil": 1000, "coeff_dispers": 0.2, "freq_lun": 1e-05, "amp_lung": 5, "tolleranza_date": 0.01, "verso": "bidirezionale", "molt_estremo": 7, "q": 0.95, "max_perc_threshold_cond": 0.1, "max_perc_threshold_marg": 0.5, "coeff_dom_rel": 1000}
